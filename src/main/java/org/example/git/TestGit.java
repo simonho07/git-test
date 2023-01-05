@@ -18,5 +18,6 @@ public class TestGit {
         System.out.println("pull test from github");
         System.out.println("Gitee test2");
         System.out.println("在Gitee上的修改，希望idea拉取下来");
+        System.out.println("再一次在idea上的修改，希望推送到GitHub");
     }
 }
